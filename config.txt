@@ -1,0 +1,15 @@
+# SOUNDBOARD CONFIG
+# Format: hotkey = nama file, volume (0.0 - 1.0)
+# File suara boleh taruh SEFOLDER sama exe, atau di folder sounds/.
+# Kalau nama file sama, yang sefolder sama exe yang dipakai.
+# Contoh hotkey: ctrl+alt+1 | f9 | ctrl+shift+a | alt+z
+# Numpad: num 1 ... num 9 (pakai SPASI, NumLock harus nyala)
+# Edit sesukamu, lalu restart exe.
+
+ctrl+alt+1 = demo1.wav, 1.0
+ctrl+alt+2 = demo2.wav, 0.9
+ctrl+alt+3 = demo3.wav, 0.8
+
+# Hotkey khusus (boleh diganti):
+stop = ctrl+alt+0
+quit = ctrl+alt+q
